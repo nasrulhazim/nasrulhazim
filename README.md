@@ -1,3 +1,2 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nasrulhazim&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I am Nasrul Hazim, a Solution Architect and Software Engineer located in Malaysia. My primary emphasis is on delivering high-quality solutions and bringing a wealth of experience to software development and consulting services.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrulhazim)](https://github.com/anuraghazra/github-readme-stats)
