@@ -97,7 +97,7 @@ Here is a table summarizing the total number of trainings conducted each year:
 | 2016 | 11              |
 | 2015 | 3               |
 
-Here is the summary of the training topics based on the training list provided:
+These totals are derived from the titles of the trainings, identifying the main topics covered in each session.
 
 | Topic          | Total Trainings |
 |----------------|-----------------|
@@ -112,11 +112,7 @@ Here is the summary of the training topics based on the training list provided:
 | Mobile App     | 1               |
 | WordPress      | 3               |
 
-Total: 48 trainings
-
-These totals are derived from the titles of the trainings, identifying the main topics covered in each session.
-
-Total: 48 trainings
+**Total: 48**
 
 ### 2024
 
