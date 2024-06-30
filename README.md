@@ -88,6 +88,21 @@ An error monitoring tool designed to help developers quickly identify and resolv
 
 Following are the list of trainings I've been conducted since 2015.
 
+Here is a table summarizing the total number of trainings conducted each year:
+
+| Year | Total Trainings |
+|------|-----------------|
+| 2024 | 2               |
+| 2023 | 11              |
+| 2022 | 8               |
+| 2019 | 4               |
+| 2018 | 6               |
+| 2017 | 3               |
+| 2016 | 11              |
+| 2015 | 3               |
+
+Total: 48 trainings
+
 ### 2024
 
 | Repo | Date |
