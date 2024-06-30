@@ -97,6 +97,25 @@ Here is a table summarizing the total number of trainings conducted each year:
 | 2016 | 11              |
 | 2015 | 3               |
 
+Here is the summary of the training topics based on the training list provided:
+
+| Topic          | Total Trainings |
+|----------------|-----------------|
+| Laravel        | 31              |
+| PHP            | 3               |
+| MySQL          | 2               |
+| Docker         | 3               |
+| Kubernetes     | 1               |
+| Git            | 1               |
+| Ionic          | 1               |
+| API            | 1               |
+| Mobile App     | 1               |
+| WordPress      | 3               |
+
+Total: 48 trainings
+
+These totals are derived from the titles of the trainings, identifying the main topics covered in each session.
+
 Total: 48 trainings
 
 ### 2024
