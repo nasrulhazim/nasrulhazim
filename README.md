@@ -1,7 +1,3 @@
-Based on the information from the provided links, here's an updated README draft for your GitHub profile:
-
----
-
 # Hi, I'm Nasrul Hazim 👋
 
 ## About Me
