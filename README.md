@@ -4,9 +4,9 @@
 
 I am Nasrul Hazim, a Solution Architect and Software Engineer located in Malaysia. My primary emphasis is on delivering high-quality solutions and bringing a wealth of experience to software development and consulting services.
 
-### Profile as a Solution Architect / Software Engineer
+### Solution Architect / Software Engineer
 
-As an accomplished software developer and trainer based in Malaysia, I am passionate about creating innovative software solutions. My journey spans a diverse range of fields including system development, application monitoring, and architectural design.
+I am passionate about creating innovative software solutions. My journey spans a diverse range of fields including system development, application monitoring, and architectural design.
 
 **Specialties:**
 - Innovative problem-solving
@@ -18,7 +18,7 @@ As a solo founder of a software house, I manage multiple responsibilities, from 
 
 My diverse experiences and unwavering commitment to excellence position me as a valuable asset in any software development and training endeavor.
 
-### Profile as a Trainer
+### Trainer
 
 As an experienced trainer, I have a rich history of conducting diverse and comprehensive training sessions spanning over a decade. My expertise primarily lies in Laravel and PHP, with sessions tailored to various skill levels, from foundational knowledge to advanced practices. 
 
@@ -31,6 +31,10 @@ As an experienced trainer, I have a rich history of conducting diverse and compr
 - **Comprehensive PHP Training**: From basics to advanced OOP principles, covered all critical aspects of PHP programming.
 
 My training sessions are meticulously designed to ensure participants not only gain theoretical knowledge but also practical skills, preparing them to tackle real-world challenges confidently. By staying updated with the latest industry trends, I strive to provide the most relevant and effective training, empowering developers to excel in their careers.
+
+### Writer
+
+As a writer at [dev.to](https://dev.to/nasrulhazim), I share insights and knowledge on various development topics, helping the developer community stay updated with the latest trends and best practices. My articles cover a wide range of subjects, including best practices in Laravel development, innovative uses of PHP, and modern web application architecture. I aim to empower developers with practical tips and advanced techniques, fostering a community of continuous learning and improvement.
 
 ## My Expertise
 
