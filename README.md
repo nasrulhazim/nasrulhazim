@@ -2,6 +2,8 @@
 
 ## About Me
 
+I am Nasrul Hazim, a Solution Architect and Software Engineer located in Malaysia. My primary emphasis is on delivering high-quality solutions and bringing a wealth of experience to software development and consulting services.
+
 ### Profile as a Solution Architect / Software Engineer
 
 As an accomplished software developer and trainer based in Malaysia, I am passionate about creating innovative software solutions. My journey spans a diverse range of fields including system development, application monitoring, and architectural design.
