@@ -1,4 +1,8 @@
-# Hi, I'm Nasrul Hazim 👋
+# Hi, I'm Nasrul Hazim 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasrulhazim/) [![](https://visitcount.itsvg.in/api?id=nasrulhazim&icon=0&color=0)](https://visitcount.itsvg.in)
+
+ ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/go-%23007d9c.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ 
+![](https://github-readme-stats.vercel.app/api?username=nasrulhazim&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=nasrulhazim&theme=dark&hide_border=false) 
 
 ## About Me
 
@@ -9,6 +13,7 @@ I am Nasrul Hazim, a Solution Architect and Software Engineer located in Malaysi
 I am passionate about creating innovative software solutions. My journey spans a diverse range of fields including system development, application monitoring, and architectural design.
 
 **Specialties:**
+
 - Innovative problem-solving
 - Rapid adaptation to new programming languages
 - Architectural evolution and deployment optimization
@@ -20,9 +25,10 @@ My diverse experiences and unwavering commitment to excellence position me as a 
 
 ### Trainer
 
-As an experienced trainer, I have a rich history of conducting diverse and comprehensive training sessions spanning over a decade. My expertise primarily lies in Laravel and PHP, with sessions tailored to various skill levels, from foundational knowledge to advanced practices. 
+As an experienced trainer, I have a rich history of conducting diverse and comprehensive training sessions spanning over a decade. My expertise primarily lies in Laravel and PHP, with sessions tailored to various skill levels, from foundational knowledge to advanced practices.
 
-#### Training Highlights:
+#### Training Highlights
+
 - **Advanced Laravel Topics**: Conducted sessions on Laravel advanced concepts and best practices, equipping developers with the tools for sophisticated web applications.
 - **Docker & Kubernetes**: Delivered in-depth training on containerization and orchestration, crucial for modern application deployment.
 - **Git and Version Control**: Provided thorough guidance on using Git for version control, essential for collaborative development environments.
@@ -52,6 +58,7 @@ As a writer at [dev.to](https://dev.to/nasrulhazim), I share insights and knowle
 | [Laravel Project Template](https://github.com/nasrulhazim/project-template) | A pre-configured Laravel project template with common packages to jumpstart your development. |
 
 ### [Nadi](https://github.com/nadi-pro)
+
 An error monitoring tool designed to help developers quickly identify and resolve issues in their applications. Nadi offers real-time crash detection, insights, and comprehensive documentation available [here](https://docs.nadi.pro).
 
 **Nadi Pro Repositories**
@@ -84,7 +91,6 @@ An error monitoring tool designed to help developers quickly identify and resolv
 | [global-search](https://github.com/cleaniquecoders/global-search)         | Simplified global search for Laravel Scout          |
 | [profile](https://github.com/cleaniquecoders/profile)               | Basic Profile Information using Polymorph           |
 | [lookup](https://github.com/cleaniquecoders/lookup)                | Set of lookup data available                        |
-
 
 ## Trainings
 
@@ -207,18 +213,9 @@ These totals are derived from the titles of the trainings, identifying the main 
 | [training-mobile-app-starter-kit](https://github.com/nasrulhazim/training-mobile-app-starter-kit) | 15 Aug 2015 |
 | [simple-staff-directory](https://github.com/nasrulhazim/simple-staff-directory) | 13 Apr 2015 |
 
-
-
-## Connect with Me
-
-- **Website**: [nasrulhazim.com](https://nasrulhazim.com)
-- **Beacons.ai**: [beacons.ai/nasrulhazim](https://beacons.ai/nasrulhazim)
-- **GitHub**: [github.com/nasrulhazim](https://github.com/nasrulhazim)
-
 ## Achievements
 
 - **GitHub Arctic Code Vault Contributor**
 - **GitHub Developer Program Member**
 
 Feel free to reach out for collaborations, consultations, or just to say hi!
-
