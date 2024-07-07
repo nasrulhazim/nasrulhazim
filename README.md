@@ -2,7 +2,7 @@
 
  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/go-%23007d9c.svg?style=flat-square&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
  
-![](https://github-readme-stats.vercel.app/api?username=nasrulhazim&theme=holi&hide_border=false&include_all_commits=false&count_private=false) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasrulhazim&theme=holi-theme)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=nasrulhazim&theme=holi&hide_border=true&include_all_commits=false&count_private=false) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasrulhazim&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
 
 ## About Me
 
