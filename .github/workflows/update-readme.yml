@@ -1,0 +1,48 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  blog-posts:
+    name: Refresh dev.to posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull latest dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/nasrulhazim"
+          max_post_count: 5
+          template: "- [$title]($url) — <sub>$date</sub>"
+          commit_message: "chore: refresh dev.to posts"
+
+  ai-stats:
+    name: Refresh AI-assisted commit stats
+    needs: blog-posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Sync with latest (blog-posts job may have pushed)
+        run: git pull --rebase --autostash origin ${{ github.ref_name }}
+      - name: Compute AI stats
+        env:
+          GH_TOKEN: ${{ secrets.READ_REPOS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/update-ai-stats.mjs
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: refresh AI stats"
+          git push
