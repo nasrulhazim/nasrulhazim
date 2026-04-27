@@ -91,12 +91,14 @@ I integrate AI tools into my daily development workflow — code generation, ref
 <!-- AI-STATS:START -->
 | Metric | Value |
 |--------|-------|
-| Total Projects | 120 |
-| Total Commits | 26,005 |
-| AI-Assisted Commits | 693 (2.7%) |
-| Projects with AI | 43 |
-| Claude Models Used | Haiku 4.5, Sonnet 4.5, Opus 4.5, Opus 4.6 |
+| Total Projects | 259 |
+| Total Commits | 6,165 |
+| AI-Assisted Commits | 568 (9.2%) |
+| Projects with AI | 62 |
+| Claude Models Used | Opus 4.5, Opus 4.6, Opus 4.7, Sonnet 4.5 |
 | AI Journey | ChatGPT (2024) → Copilot (mid-2025) → Claude (Nov 2025) |
+
+_Last updated: 2026-04-27 · public repos only_
 <!-- AI-STATS:END -->
 
 ### Top AI-Collaborative Projects
@@ -104,13 +106,13 @@ I integrate AI tools into my daily development workflow — code generation, ref
 <!-- AI-PROJECTS:START -->
 | Project | Total | AI Commits | AI % | Description |
 |---------|------:|----------:|-----:|-------------|
-| gatherhub-app | 431 | 80 | 18.6% | Event management & community platform |
-| umpsa-iam | 983 | 74 | 7.5% | Enterprise identity & access management |
-| warung-app | 62 | 38 | 61.3% | F&B ordering & POS system |
-| g8stack-starter | 159 | 38 | 23.9% | Opinionated Laravel starter kit |
-| gatehub-core | 135 | 26 | 19.3% | API gateway management package |
-| screenr-app | 32 | 20 | 62.5% | Browser-based screen recording tool |
-| [nadi-symfony](https://github.com/nadi-pro/nadi-symfony) | 18 | 18 | 100% | Nadi error monitoring client for Symfony |
+| [cleaniquecoders/kickoff](https://github.com/cleaniquecoders/kickoff) | 241 | 52 | 21.6% | Allow configure new Laravel project with all required packages and setup. |
+| [developers-hub-my/g8stack-connect](https://github.com/developers-hub-my/g8stack-connect) | 67 | 45 | 67.2% | G8Connect — Data-source-to-API platform with governance via G8Stack |
+| [nasrulhazim/agent-skills](https://github.com/nasrulhazim/agent-skills) | 47 | 36 | 76.6% |  |
+| [cleaniquecoders/mail-history](https://github.com/cleaniquecoders/mail-history) | 113 | 22 | 19.5% | Track and log outgoing emails for easy reference and management |
+| [nadi-pro/nadi-symfony](https://github.com/nadi-pro/nadi-symfony) | 21 | 21 | 100.0% |  |
+| [nadi-pro/nadi-codeigniter](https://github.com/nadi-pro/nadi-codeigniter) | 19 | 19 | 100.0% |  |
+| [nadi-pro/nadi-cakephp](https://github.com/nadi-pro/nadi-cakephp) | 21 | 19 | 90.5% |  |
 <!-- AI-PROJECTS:END -->
 
 ### Claude Code Skills & Tools
