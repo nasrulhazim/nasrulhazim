@@ -146,8 +146,7 @@ Formats: team workshops · bootcamps · 1:1 coaching · mentorship programs.
 
 Latest posts from [dev.to/nasrulhazim](https://dev.to/nasrulhazim):
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Here&#39;s How I Build Products Without Losing My Mind.](https://dev.to/nasrulhazim/heres-how-i-build-products-without-losing-my-mind-1mi1) — <sub>Tue Apr 07 2026 12:58 AM</sub>- [Laravel Artisan Runner — Run Artisan Commands from the Browser, Safely](https://dev.to/nasrulhazim/laravel-artisan-runner-run-artisan-commands-from-the-browser-safely-123m) — <sub>Mon Mar 30 2026 8:49 AM</sub>- [I Built a Claude Code Skill to Sync CLAUDE.md Across 12+ Laravel Projects](https://dev.to/nasrulhazim/i-built-a-claude-code-skill-to-sync-claudemd-across-12-laravel-projects-5apo) — <sub>Sat Mar 14 2026 12:06 AM</sub>- [Teaching Claude Code to Think Like a Laravel Developer: Introducing agent-skills](https://dev.to/nasrulhazim/teaching-claude-code-to-think-like-a-laravel-developer-introducing-agent-skills-58cm) — <sub>Sat Feb 28 2026 12:23 AM</sub>- [I Built a Claude Code Slash Command That Designs Complete SVG Logo Systems](https://dev.to/nasrulhazim/i-built-a-claude-code-slash-command-that-designs-complete-svg-logo-systems-2jbc) — <sub>Thu Feb 26 2026 4:40 PM</sub><!-- BLOG-POST-LIST:END -->
 
 📘 Book: [100 Tips for Building Quality Laravel Applications](https://shop.beacons.ai/nasrulhazim/81f8f122-071c-4f8f-adc9-07bc950960f8)
 
