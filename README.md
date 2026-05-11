@@ -91,14 +91,14 @@ I integrate AI tools into my daily development workflow — code generation, ref
 <!-- AI-STATS:START -->
 | Metric | Value |
 |--------|-------|
-| Total Projects | 260 |
-| Total Commits | 6,181 |
-| AI-Assisted Commits | 576 (9.3%) |
+| Total Projects | 261 |
+| Total Commits | 6,186 |
+| AI-Assisted Commits | 578 (9.3%) |
 | Projects with AI | 63 |
 | Claude Models Used | Opus 4.5, Opus 4.6, Opus 4.7, Sonnet 4.5 |
 | AI Journey | ChatGPT (2024) → Copilot (mid-2025) → Claude (Nov 2025) |
 
-_Last updated: 2026-05-04 · public repos only_
+_Last updated: 2026-05-11 · public repos only_
 <!-- AI-STATS:END -->
 
 ### Top AI-Collaborative Projects
